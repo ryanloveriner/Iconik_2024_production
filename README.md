@@ -11,4 +11,4 @@ This collection of graphs and charts visualizes Iconik Coffee Roaster's 2024 bev
 
 ![Alt text](prime_sales_brewedcoffee_2024.png)
 
-# [Brewed Coffee Sales Code](cafe_totals.png)
+# [Brewed Coffee Sales Code](cafe_totals.png) ⬆️
